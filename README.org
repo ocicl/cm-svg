@@ -6,5 +6,5 @@ editor) of Common Music (version 2.12).
 |---------+----------------------------------------|
 | source  | git:https://github.com/ormf/cm-svg.git |
 | commit  | 11b3956                                |
-| systems | cm-svg                                 |
+| systems | cm-svg cm-svg.rts                      |
 |---------+----------------------------------------|
